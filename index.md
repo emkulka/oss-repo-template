@@ -1,5 +1,5 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
+# Open Source Software - Spring 2022
+## Elise Kulka
 
 ## Bio
 (( Put a little bit about yourself here! Also include a photo. ))
