@@ -19,7 +19,7 @@ It goes without saying that one of the main components of the Open Source Defini
 
 Chapter 3 of Free Culture
 
-(insert paragraph)
+This chapter from Free Culture was honestly a bit scary to read. It's nervewracking to think that tinkering with search engines or other tools could lead to a major lawsuit that could significantly impact your life. I find it difficult to understand what exactly Jesse did wrong, since he did not encourage people to put music in their public folders in any way. I'm also confused on how the RIAA justified their claims against Jesse as he made no money of the the search engine, and did not actually build this system. One takeaway I have from this reading is that it is very important to read through and understand all of the copyright and licensing policies of a project before working on it. While this takeaway sounds simple on paper, it likely is not as simple in practice. Oftentimes these policies are not easily accessible, or if they are they will be very long and difficult to read through. It almost seems as if groups like the RIAA want to take advantage of people like Jesse in order to make more money.
 
 ## 3.
 <img src="https://user-images.githubusercontent.com/25308429/149561463-3e255cea-9c82-4ff7-bdcc-4ba72b0ecc75.png" width="500" height="300" />
