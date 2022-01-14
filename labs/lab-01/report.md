@@ -18,7 +18,9 @@ Chapter 3 of Free Culture
 (insert paragraph)
 
 ## 3.
-(insert linux screenshot)
+<img src="https://user-images.githubusercontent.com/25308429/149561463-3e255cea-9c82-4ff7-bdcc-4ba72b0ecc75.png" width="500" height="300" />
+
+<img src="https://user-images.githubusercontent.com/25308429/149561244-5c4e178a-e1ba-415d-90d4-6f33e11781fc.png" width="500" height="300" />
 
 ## 4.
 (insert regex screenshot)
