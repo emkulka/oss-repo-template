@@ -4,14 +4,18 @@
 (see index.md)
 
 ## 1.
-(insert screenshot of discord message)
+<img src="https://user-images.githubusercontent.com/25308429/149559038-5b5648fd-647b-45de-b712-565627f74698.png" width="200" height="200" />
 
 ## 2. 
-How to answer questions in a helpful way:
+`How To Answer Questions in a Helpful Way`
+
 1.
+
 2.
 
 Chapter 3 of Free Culture
+
+(insert paragraph)
 
 ## 3.
 (insert linux screenshot)
