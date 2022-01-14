@@ -27,7 +27,16 @@ This chapter from Free Culture was honestly a bit scary to read. It's nervewrack
 <img src="https://user-images.githubusercontent.com/25308429/149561244-5c4e178a-e1ba-415d-90d4-6f33e11781fc.png" width="500" height="300" />
 
 ## 4.
-(insert regex screenshot)
+1.
+<img src="https://user-images.githubusercontent.com/25308429/149570768-2f9200eb-2936-4abd-9e46-9693870d6e39.png" width="500" height="200" />
+<img src="https://user-images.githubusercontent.com/25308429/149572064-63a929cb-8696-4e9d-a52e-83fca47c1c83.png" width="500" height="200" />
+<img src="https://user-images.githubusercontent.com/25308429/149572935-2b5aab43-7fe1-4420-87b8-0bb2d6fd0bba.png" width="500" height="225" />
+<img src="https://user-images.githubusercontent.com/25308429/149573997-308cb79f-9a4e-42b1-b453-8938282eef49.png" width="500" height="150" />
+<img src="https://user-images.githubusercontent.com/25308429/149574566-4b076ad1-c553-4384-916a-cf6e399d5efb.png" width="500" height="225" />
+<img src="https://user-images.githubusercontent.com/25308429/149574804-769d6b04-7c66-4f5c-ba47-5e0f4c1fdd7d.png" width="500" height="125" />
+<img src="https://user-images.githubusercontent.com/25308429/149575734-01e9b9fd-164c-4092-9d49-4811d206224d.png" width="500" height="250" />
+
+2.
 
 ## 5. 
 (insert snap/blockly screenshot)
