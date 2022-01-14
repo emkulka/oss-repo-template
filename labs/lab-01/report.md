@@ -37,6 +37,13 @@ This chapter from Free Culture was honestly a bit scary to read. It's nervewrack
 <img src="https://user-images.githubusercontent.com/25308429/149575734-01e9b9fd-164c-4092-9d49-4811d206224d.png" width="500" height="250" />
 
 2.
+![image](https://user-images.githubusercontent.com/25308429/149576418-64d8cd7a-5ec2-4935-9184-4d7cd408f441.png)
+
+![image](https://user-images.githubusercontent.com/25308429/149576555-d0cc6d1c-7382-439a-ae0d-9ea068c0ddc2.png)
+
+![image](https://user-images.githubusercontent.com/25308429/149576719-ef30ca36-4c21-45f4-8a68-3c7927595bdd.png)
+
+![image](https://user-images.githubusercontent.com/25308429/149577342-96482fff-5fae-4ab8-9db3-a47b7806bc80.png)
 
 ## 5. 
 (insert snap/blockly screenshot)
