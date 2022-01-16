@@ -49,4 +49,4 @@ This chapter from Free Culture was honestly a bit scary to read. It's nervewrack
 (insert snap/blockly screenshot)
 
 ## 6.
-(reflection)
+An open source project that I found interesting is [Gerrit Code Review](https://www.gerritcodereview.com/). I found this project on [Google Open Source](https://opensource.google/projects/explore/featured) after looking through some of the featured projects. Gerrit is a web-based code review system for projects using Git. One of the main features listed on the webiste is the ability to discuss code within the files themselves. Comments and threads can be added by multiple users, sections can be marked as "unreviewed" or reviewed", and more. After reading through the project's website, I also inspected the source code a bit. The majority of this project is written in Java (ust under 75%). Finally, I read through some of the documentation that further explains how Gerrit works. I am interested in this project because I understand the importance of code reviews in building successful code, and having this feature integrated directly into Git would likely make this process more accessible and efficient.
