@@ -20,3 +20,14 @@ gitk --all (on jupiter)
 
 ![image](https://user-images.githubusercontent.com/25308429/150576478-ab9dbb50-bb4f-4def-943d-a47d07532e9e.png)
 
+## 2.
+
+Link to forked repo: https://github.com/emkulka/Spoon-Knife
+
+(insert ss from git practice here)
+
+## 3. 
+Link to forked repo: https://github.com/emkulka/PullReq
+
+![image](https://user-images.githubusercontent.com/25308429/150581458-9146ba47-5992-4a59-bd1d-89653e6c79de.png)
+
