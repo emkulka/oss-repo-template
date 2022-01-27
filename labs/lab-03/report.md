@@ -1,4 +1,4 @@
-# Lab 02 Report - Documentation and Community
+# Lab 03 Report - Documentation and Community
 
 ## Part 1
 
