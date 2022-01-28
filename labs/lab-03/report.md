@@ -4,7 +4,7 @@
 
 ### Wiki page
 
-(insert screenshot of wiki)
+Link to wiki page can be found [here](https://github.com/emkulka/oss-repo-template/wiki/Project-Ideas).
 
 ### LaTex formulae
 
