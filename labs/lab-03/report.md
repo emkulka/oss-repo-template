@@ -47,3 +47,5 @@ produces
 <img src="https://user-images.githubusercontent.com/25308429/151602103-13a1afed-4bb0-4f65-9fc0-d813f4252593.png" width="400" height="300" />
 
 <img src="https://user-images.githubusercontent.com/25308429/151602294-19e82748-cb0b-4781-acfd-0e1cb1f80d05.png" width="400" height="300" />
+
+(insert discussion of findings here)
