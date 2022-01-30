@@ -48,4 +48,13 @@ produces
 
 <img src="https://user-images.githubusercontent.com/25308429/151602294-19e82748-cb0b-4781-acfd-0e1cb1f80d05.png" width="400" height="300" />
 
-(insert discussion of findings here)
+One difference we noticed between what we found and what GitStats produced was the number of lines of code. Running the command `git ls-files -z | xargs -0 wc -l` provides all the lines in all files in the repository, whereas GitStats only looks at the lines of true code. 
+
+In general, we noticed that it is not common for these open source projects to have more than a few contributors. This is likely because even though you may be passionate about a certain project, it can be challenging to get others interested enough that they would also want to contribute.
+
+### gource
+
+Article Aggregator
+
+<img src="https://user-images.githubusercontent.com/25308429/151709903-ad8bfc49-77f1-43b3-ad27-8b7c9e7d63e2.png" width="400" height="300" />
+
