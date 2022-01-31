@@ -53,8 +53,11 @@ One difference we noticed between what we found and what GitStats produced was t
 In general, we noticed that it is not common for these open source projects to have more than a few contributors. This is likely because even though you may be passionate about a certain project, it can be challenging to get others interested enough that they would also want to contribute.
 
 ### gource
+The following is what occured when I tried to run gource on ARAS:
 
-Article Aggregator
+<img src="https://user-images.githubusercontent.com/25308429/151829373-ae6bb918-5aea-4908-b090-3159b5ea2058.png" />
+
+This is a screenshot from a tablemate who was able to run gource on Article Aggregator
 
 <img src="https://user-images.githubusercontent.com/25308429/151709903-ad8bfc49-77f1-43b3-ad27-8b7c9e7d63e2.png" width="400" height="300" />
 
