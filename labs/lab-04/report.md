@@ -14,7 +14,7 @@ From the reading, the four criteria for Free Software are
 
 ## 3. 
 
-It is important to choose a license because...
+It is important to choose a license so that you (creator, collaborator) can adequately protect your work. Not only does a licensce protect the work you create, but it also protects those who use your software. Additionally, if a license is not chosen, there can be issues with ownership and/or copyright. If a license is not there to spell out the guidelines of use for the project then nobody can claim ownership or continue to use it. 
 
 ## 4. 
 
