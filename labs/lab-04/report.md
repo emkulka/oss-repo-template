@@ -30,7 +30,7 @@ Do you agree with this claim? ...
 
 ## 7. 
 
-(insert work from table here)
+Link to table's repository can be found [here](https://github.com/ThomasAndrasek/open-source-game)
 
 ## 8. 
 
