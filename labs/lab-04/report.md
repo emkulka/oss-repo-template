@@ -18,7 +18,7 @@ It is important to choose a license so that you (creator, collaborator) can adeq
 
 ## 4. 
 
-It is important not to use a project that doesn't have an explicit license because...
+It can be very risky to use a project without a license for many reasons, and therefore you should avoid using such a project. A project that is not explicitly licensed has no copyright or distribution rules attached to it, and if you were to use it your own work you could lose the ability to use the project at any time or even be pursued for potential copyright infringement or other infractions.
 
 ## 5.
 
