@@ -14,7 +14,7 @@ From the reading, the four criteria for Free Software are
 
 ## 3. 
 
-It is important to choose a license so that you (creator, collaborator) can adequately protect your work. Not only does a licensce protect the work you create, but it also protects those who use your software. Additionally, if a license is not chosen, there can be issues with ownership and/or copyright. If a license is not there to spell out the guidelines of use for the project then nobody can claim ownership or continue to use it. 
+It is important to choose a license so that you (creator, collaborator) can adequately protect your work. Not only does a license protect the work you create, but it also protects those who use your software. Additionally, if a license is not chosen, there can be issues with ownership and/or copyright. If a license is not there to spell out the guidelines of use for the project then nobody can claim ownership or continue to use it. 
 
 ## 4. 
 
@@ -26,7 +26,7 @@ I do agree with the claim that the Web development team did better than the Goph
 
 ## 6. 
 
-Microsoft .NET Core uses an MIT license. This license was likely chosen because it has very limited restrictions on re-use of the project and is therefore highly compatible with other licenses and projects. The .NET framework is a very widely-used platform; a less-restrive license makes sense in this context because it will almost always be compatible with the licenses of the projects that utilize it. Additionally, .NET encourages and supports contributions to the project, and the MIT license is very permissive of contributions as well as re-use.
+Microsoft .NET Core uses an MIT license. This license was likely chosen because it has very limited restrictions on re-use of the project and is therefore highly compatible with other licenses and projects. The .NET framework is a very widely-used platform; a less-restrictive license makes sense in this context because it will almost always be compatible with the licenses of the projects that utilize it. Additionally, .NET encourages and supports contributions to the project, and the MIT license is very permissive of contributions as well as re-use.
 
 ## 7. 
 
