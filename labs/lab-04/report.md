@@ -2,7 +2,7 @@
 
 ## 1.
 
-(see bottom of lab report and [this file](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-04/LICENSE) for license information)
+(see bottom of lab report and [this file](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-04/LICENSE.md) for license information)
 
 ## 2. 
 
