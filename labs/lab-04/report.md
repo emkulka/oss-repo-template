@@ -22,7 +22,7 @@ It can be very risky to use a project without a license for many reasons, and th
 
 ## 5.
 
-Do you agree with this claim? ...
+I do agree with the claim that the Web development team did better than the Gopher team in regards to implementing an open systems model. The Gopher team did not release their software early in the development process and thus lost out on establishing a strong developer base early on. Additionally, the Gopher team required payment for licensing fees for hosts with a .com domain, which caused many people to re-evaluate their use and support of Gopher.
 
 ## 6. 
 
