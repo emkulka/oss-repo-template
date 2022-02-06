@@ -26,7 +26,7 @@ I do agree with the claim that the Web development team did better than the Goph
 
 ## 6. 
 
-(insert justification here)
+Microsoft .NET Core uses an MIT license. This license was likely chosen because it has very limited restrictions on re-use of the project and is therefore highly compatible with other licenses and projects. The .NET framework is a very widely-used platform; a less-restrive license makes sense in this context because it will almost always be compatible with the licenses of the projects that utilize it. Additionally, .NET encourages and supports contributions to the project, and the MIT license is very permissive of contributions as well as re-use.
 
 ## 7. 
 
