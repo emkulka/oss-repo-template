@@ -36,6 +36,10 @@ Link to table's repository can be found [here](https://github.com/ThomasAndrasek
 
 Website | License Present | License
 ---------|:----------|:-------
-(site) | (y/n) | (license)
+[BeirRun](https://github.com/nick-lennox/beirrun) | Yes | [MIT License](https://github.com/nick-lennox/BeirRun/blob/master/LICENSE)
+[Campus Watch](https://github.com/carolynann/rcos-campuswatch) | Yes | [MIT License](https://github.com/CarolynAnn/rcos-campuswatch/blob/master/LICENSE)
+[EMPAC+](https://github.com/cpybus/EMPACplus) | Yes | [Apache License v 2.0](https://github.com/cpybus/EMPACplus/blob/master/LICENSE)
+[Glimpse](https://github.com/rpitv/glimpse-ui) | Yes | [GPL-3.0 License](https://github.com/rpitv/glimpse-ui/blob/master/LICENSE)
+[OpenHarmonizer](https://github.com/10000turtles/openharmonizer) | Yes | [MIT License](https://github.com/10000turtles/OpenHarmonizer/blob/master/LICENSE)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
