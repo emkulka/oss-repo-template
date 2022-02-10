@@ -1,6 +1,6 @@
 # Lab 05 - Build Systems
 
-## CMake tutorial
+## CMake tutorial - steps 1 through 5
 
 ### Steps 1 and 2
 
@@ -48,7 +48,7 @@ screenshots of running `Tutorial` for USE_MYMATH case code
 - with 10
 - with 4294967296
 
-## Build Systems Example
+## Build systems example from class repository
 
 Makefile
 
