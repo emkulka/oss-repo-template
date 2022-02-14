@@ -6,7 +6,9 @@
 
 (results are from the end of this step)
 
-`tutorial.cxx`
+<details>
+  <summary> tutorial.cxx </summary>
+	
 ```
 // A simple program that computes the square root of a number
 #include <cmath>
@@ -33,8 +35,11 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
-
-`CMakeLists.txt`
+</details>
+			
+<details>
+  <summary> CMakeLists.txt </summary>
+	
 ```
 make_minimum_required(VERSION 3.10)
 
@@ -56,14 +61,19 @@ target_include_directories(Tutorial PUBLIC
 	                           "${PROJECT_BINARY_DIR}"
 			)
 ```
+</details>
+			
 other modified code
 
-`TutorialConfig.h.in`
+<details>
+  <summary> TutorialConfig.h.in </summary>
+	
 ```
 // the configured options and settings for Tutorial
 #define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
 #define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
 ```
+</details>
 
 screenshots of running `Tutorial` code
 
@@ -73,8 +83,9 @@ screenshots of running `Tutorial` code
 
 
 ### Step 2
-
-`tutorial.cxx`
+	
+<details>
+  <summary> tutorial.cxx </summary>
 
 ```
 // A simple program that computes the square root of a number
@@ -112,8 +123,10 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
-
-`CMakeLists.txt`
+</details>
+			
+<details>
+  <summary> CMakeLists.txt </summary>
 
 ```
 cmake_minimum_required(VERSION 3.10)
@@ -150,10 +163,12 @@ target_include_directories(Tutorial PUBLIC
 				  ${EXTRA_INCLUDES}
 			 )
 ```
+</details>
 
 other modified code
-
-`TutorialConfig.h.in`
+	
+<details>
+  <summary> TutorialConfig.h.in </summary>
 
 ```
 // the configured options and settings for Tutorial
@@ -161,6 +176,7 @@ other modified code
 #define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
 #cmakedefine USE_MYMATH
 ```
+</details>
 
 screenshots of running `Tutorial` code (with mysqrt*)
 
@@ -171,8 +187,9 @@ screenshots of running `Tutorial` code (with mysqrt*)
 *note: using sqrt in Step 2 produces the same output as step 1
 
 ### Step 3
-
-`CMakeLists.txt`
+	
+<details>
+  <summary> CMakeLists.txt </summary>
 
 ```
 cmake_minimum_required(VERSION 3.10)
@@ -208,8 +225,10 @@ target_include_directories(Tutorial PUBLIC
                            "${PROJECT_BINARY_DIR}"
                            )
 ```
-
-`MathFunctions/CMakeLists.txt`
+</details>
+			
+<details>
+  <summary> MathFunctions/CMakeLists.txt </summary>
 
 ```
 add_library(MathFunctions mysqrt.cxx)
@@ -217,13 +236,15 @@ target_include_directories(MathFunctions
 	          INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
 		            )
 ```
-
+</details>
+			
 screenshots of running `Tutorial` code
 - please see output screenshots from Step 2 - these are exactly the same
 
 ### Step 4
-
-`CMakeLists.txt`
+			
+<details>
+  <summary> CMakeLists.txt </summary>
 
 ```
 cmake_minimum_required(VERSION 3.10)
@@ -292,8 +313,10 @@ do_test(Tutorial 25 "25 is 5")
 do_test(Tutorial -25 "-25 is (-nan|nan|0)")
 do_test(Tutorial 0.0001 "0.0001 is 0.01")
 ```
-
-`MathFunctions/CMakeLists.txt`
+</details>
+			
+<details>
+  <summary> MathFunctions/CMakeLists.txt </summary>
 
 ```
 add_library(MathFunctions mysqrt.cxx)
@@ -307,8 +330,10 @@ target_include_directories(MathFunctions
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
-
-output of running `ctest -VV`
+</details>
+			
+<details>
+  <summary> output of running `ctest -VV` </summary>
 
 ```
 UpdateCTestConfiguration  from :/mnt/c/Users/kulkae/Documents/Classes/Spring 2022/OSS/cmake/Help/guide/tutorial/Step4_build/DartConfiguration.tcl
@@ -459,10 +484,12 @@ test 9
 
 Total Test time (real) =   1.61 sec
 ```
-
+</details>
+			
 ### Step 5
-
-`CMakeLists.txt`
+	
+<details>
+  <summary> CMakeLists.txt </summary>
 
 ```
 cmake_minimum_required(VERSION 3.10)
@@ -532,8 +559,10 @@ do_test(Tutorial 25 "25 is 5")
 do_test(Tutorial -25 "-25 is (-nan|nan|0)")
 do_test(Tutorial 0.0001 "0.0001 is 0.01")
 ```
-
-`MathFunctions/CMakeLists.txt`
+</details>
+			
+<details>
+  <summary> MathFunctions/CMakeLists.txt </summary>
 
 ```
 add_library(MathFunctions mysqrt.cxx)
@@ -571,7 +600,8 @@ endif()
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
-
+</details>
+			
 screenshots of running `Tutorial` for USE_MYMATH case code
 
 - with 10 ![image](https://user-images.githubusercontent.com/25308429/153665309-86a19be6-550a-47e5-833d-ac27cbc6a0aa.png)
