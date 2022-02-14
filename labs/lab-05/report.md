@@ -609,8 +609,33 @@ screenshots of running `Tutorial` for USE_MYMATH case code
 
 ## Build systems example from class repository
 
-Makefile
+<details>
+  <summary> Makefile </summary>
+	
+```
+all: dynamic_block static_block
 
+dynamic_block: program.c dynamic_block.so Makefile
+	gcc program.c dynamic_block.so -o dynamic_block -Wl,-rpath .
+
+static_block: program.c static_block.a Makefile
+	gcc program.c static_block.a -o static_block
+
+dynamic_block.so: block.o Makefile
+	gcc -shared -o dynamic_block.so block.o
+
+static_block.a: block.o Makefile
+	ar qc static_block.a block.o
+
+block.o: source/block.c Makefile
+	gcc -fPIC -c source/block.c -o block.o
+
+.PHONY: clean
+clean:
+	rm -rf *.o *.a *.so dynamic_block static_block
+```
+</details>
+	
 `CMakeLists.txt`
 
 Makefile created by cmake
