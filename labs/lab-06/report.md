@@ -1,4 +1,4 @@
-#Lab 06 - Scientific Computing
+# Lab 06 - Scientific Computing
 
 ## results for the 4 five letter pairs
 
