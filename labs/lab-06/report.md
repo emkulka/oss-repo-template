@@ -1,6 +1,8 @@
 # Lab 06 - Scientific Computing
 
-## results for the 4 five letter pairs
+## Step 1
+
+[Code](link)
 
 ## code for the four letter solution
 
