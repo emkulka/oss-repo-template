@@ -1,12 +1,12 @@
 # Lab 06 - Scientific Computing
 
-## results for the 4 additional five letter pairs
+## 1. testing additional pairs of five-letter words
 
 [Code](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step1.py)
 
 [Results](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step1.txt)
 
-## code for the four letter solution
+## 2. generate and test a new version that takes 4-letter words
 
 ## results for the 2 for letter pairs
 
