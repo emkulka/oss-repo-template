@@ -6,15 +6,18 @@
 
 [Results](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step1.txt)
 
-## 2. generate and test a new version that takes 4-letter words
+## 2. implement and test a new version that takes four-letter words
 
-## results for the 2 for letter pairs
+[Code](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step2.py)
 
-## code for the unorded solution
+[Results](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step2.txt)
 
-## results for the 4 five letter pairs using the unordered implementation
+## 3. implement and test a new unordered version for five-letter words
 
-## (optional) code for precede/follow
+[Code](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step3.py)
 
-## (optional) precede/follow results
+[Results](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step3.txt)
+
+## 4. (optional) precede/follow
+
 
