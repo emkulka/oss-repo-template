@@ -2,14 +2,12 @@
 =====
 Words
 =====
-
 Words/Ladder Graph
 ------------------
 Generate  an undirected graph over the 5757 5-letter words in the
 datafile `words_dat.txt.gz`.  Two words are connected by an edge
 if they differ in one letter, resulting in 14,135 edges. This example
 is described in Section 1.1 in Knuth's book (see [1]_ and [2]_).
-
 References
 ----------
 .. [1] Donald E. Knuth,
@@ -58,12 +56,14 @@ def generate_graph(words):
 
 def words_graph():
     """Return the words example graph from the Stanford GraphBase"""
+    #modified for step 2 to use 4 letter word data
     fh = gzip.open('words4_dat.txt.gz', 'r')
     words = set()
     for line in fh.readlines():
         line = line.decode()
         if line.startswith('*'):
             continue
+        #modified for step 2 to use 4 letter word data
         w = str(line[0:4])
         words.add(w)
     return generate_graph(words)
@@ -71,12 +71,14 @@ def words_graph():
 
 if __name__ == '__main__':
     G = words_graph()
+    #modified for step 2 to use 4 letter word data
     print("Loaded words4_dat.txt containing four-letter English words.")
     print("Two words are connected if they differ in one letter.")
     print("Graph has %d nodes with %d edges"
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
-
+    
+    #modified for step 2 to use 4 letter word data
     for (source, target) in [('cold', 'warm'),
                              ('love', 'hate'),
                              ('good', 'evil'),
@@ -89,3 +91,4 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
             print("None")
+            
