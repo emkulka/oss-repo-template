@@ -1,8 +1,10 @@
 # Lab 06 - Scientific Computing
 
-## Step 1
+## results for the 4 additional five letter pairs
 
-[Code](link)
+[Code](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step1.py)
+
+[Results](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-06/step1.txt)
 
 ## code for the four letter solution
 
