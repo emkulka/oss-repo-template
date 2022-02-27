@@ -76,7 +76,8 @@ if __name__ == '__main__':
     print("Graph has %d nodes with %d edges"
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
-
+    
+    #modified for step 1 - added more test words
     for (source, target) in [('chaos', 'order'),
                              ('nodes', 'graph'),
                              ('moron', 'smart'),
