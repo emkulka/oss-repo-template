@@ -79,7 +79,7 @@ if __name__ == '__main__':
     
     #modified for step 1 - added more test words
     for (source, target) in [('chaos', 'order'),
-                             ('nodes', 'graph'),
+                             ('plots', 'graph'),
                              ('moron', 'smart'),
                              ('flies', 'swims'),
                              ('mango', 'peach'),
