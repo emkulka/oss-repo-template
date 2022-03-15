@@ -8,12 +8,11 @@ chose
 chore
 coder
 order
-Shortest path between nodes and graph is
-nodes
-anode
-agone
-anger
-gaper
+Shortest path between plots and graph is
+plots
+opals
+plash
+sharp
 graph
 Shortest path between moron and smart is
 moron

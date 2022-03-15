@@ -82,7 +82,7 @@ if __name__ == '__main__':
     print("%d connected components" % nx.number_connected_components(G))
 
     for (source, target) in [('chaos', 'order'),
-                             ('nodes', 'graph'),
+                             ('plots', 'graph'),
                              ('moron', 'smart'),
                              ('flies', 'swims'),
                              ('mango', 'peach'),

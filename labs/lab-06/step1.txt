@@ -16,15 +16,12 @@ added
 adder
 odder
 order
-Shortest path between nodes and graph is
-nodes
-lodes
-lores
-lords
-loads
-goads
-grads
-grade
+Shortest path between plots and graph is
+plots
+plats
+plate
+prate
+grate
 grape
 graph
 Shortest path between moron and smart is
