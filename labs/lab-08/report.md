@@ -1,4 +1,4 @@
-# Lab 07 - Testing and Continuous Integration
+# Lab 08 - Testing and Continuous Integration
 
 ## Checkpoint 1
 
