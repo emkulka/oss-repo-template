@@ -6,11 +6,11 @@
 
 ## Checkpoint 2
 
-Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests where run for a particular submission?
+Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests were run for a particular submission?
 
 Find a submission with errors. Can you see what the error condition was? How does this help you debug the failure?
 
-Find a system that is close to your specific configuration in the Nightly, Nightly Expected or one of the Masters sections. How clean is the dashboard? Are there any errors that you need to be concerned with?
+Find a system that is close to your specific configuration in the _Nightly_, _Nightly Expected_ or one of the _Masters_ sections. How _clean_ is the dashboard? Are there any errors that you need to be concerned with?
 
 (insert screenshot of test submission in Experimental Dashboard)
 
