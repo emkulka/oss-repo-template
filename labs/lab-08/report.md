@@ -2,7 +2,8 @@
 
 ## Checkpoint 1
 
-(insert screenshot of successful build message)
+Built using command `make` after generating in ccmake (as per Prof. Turner's guidance)
+![image](https://user-images.githubusercontent.com/25308429/159069993-320e46a0-b22a-42cd-8fcc-77c8eaa33c31.png)
 
 ## Checkpoint 2
 
