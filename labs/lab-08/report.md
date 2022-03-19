@@ -36,7 +36,10 @@ screenshot from command line of error fix and successful run
 
 ## Checkpoint 4
 
-(insert link to repository)
+[Repository link](https://github.com/emkulka/OSS-lab08-ch4)
 
-(insert screenshots of pull request - see examples)
+![image](https://user-images.githubusercontent.com/25308429/159104293-07e9c4c5-a565-40d4-a9db-b6de35cf7083.png)
+
+![image](https://user-images.githubusercontent.com/25308429/159104359-668211ff-c4fa-456f-aed2-e139398fc6e8.png)
+
 
