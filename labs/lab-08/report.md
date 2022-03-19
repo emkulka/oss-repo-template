@@ -24,9 +24,15 @@ There are no errors, which is consistent with other projects using a similar arc
 
 ## Checkpoint 3
 
-(insert screenshot of test submission with errors in Experimental Dashboard)
+screenshot from command line of inital test with errors
 
-(insert screenshot of error fix/successful run)
+![image](https://user-images.githubusercontent.com/25308429/159101279-45a1cf4b-b25a-41cc-a1a9-db25cb4b5778.png)
+
+Examining the updated Copyright.txt, I can see that some of the Contributors were removed and the copyright ending year is 2020 instead of 2022. By fixing these issues, the tests run as expected and pass.
+
+screenshot from command line of error fix and successful run
+
+![image](https://user-images.githubusercontent.com/25308429/159101654-e501f68e-36b9-41f0-9371-2020573b790d.png)
 
 ## Checkpoint 4
 
