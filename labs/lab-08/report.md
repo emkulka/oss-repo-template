@@ -16,6 +16,8 @@ Find a submission with errors. Can you see what the error condition was? How doe
 Find a system that is close to your specific configuration in the _Nightly_, _Nightly Expected_ or one of the _Masters_ sections. How _clean_ is the dashboard? Are there any errors that you need to be concerned with?
 - I looked at the site cmake-wm03.nvidia since it uses Ubuntu 18.04 like I do. This dashboard is very clean, with no errors, and all 682 of the tests that ran passed. There is no sign of concerning errors.
 
+Screenshot of my test submission on the Experimental dashboard
+
 ![image](https://user-images.githubusercontent.com/25308429/159100924-b453049d-9680-4b18-9097-ade5ef324826.png)
 
 There are no errors, which is consistent with other projects using a similar architecture.
