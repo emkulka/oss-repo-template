@@ -80,6 +80,10 @@ Then I ran the commands `docker-compose build` to build
 
 ![image](https://user-images.githubusercontent.com/25308429/160174540-faea20dc-6c84-4d5c-b040-d95b84e02066.png)
 
-and `docker-compose up`
+and `docker-compose up` to start the message app.
 
+Then I followed the instructions to use the app
 
+![image](https://user-images.githubusercontent.com/25308429/160175821-ffeb526c-9a4e-47a7-a058-220589e5e4f3.png)
+
+![image](https://user-images.githubusercontent.com/25308429/160176286-316e84ac-d86c-4170-9698-fe2ab74016e7.png)
