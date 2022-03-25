@@ -38,11 +38,13 @@ Running the command `docker run --name db -d mongo:3.2 mongod --smallfiles`:
 
 Followed by running the command `docker run --name rocketchat -p 3000:3000 --env ROOT_URL=http://localhost --link db:db -d rocket.chat:0.62`:
 
-![image](https://user-images.githubusercontent.com/25308429/160150944-260b0000-b5c3-4326-8763-7d19c257a637.png)
+![image](https://user-images.githubusercontent.com/25308429/160159622-c6c8bce1-640f-4ce2-b0c8-297e01990467.png)
 
-![image](https://user-images.githubusercontent.com/25308429/160150992-d39f18eb-b6a6-4ee7-9a1d-c48004a0764b.png)
+![image](https://user-images.githubusercontent.com/25308429/160159667-0e57ce36-6505-40d7-bf4d-0c99f1dd4e43.png)
 
 And finally opening localhost:3000 in browser to view rocketchat:
+
+![image](https://user-images.githubusercontent.com/25308429/160159834-4d882633-6893-4398-b3ac-c38b2d0b724c.png)
 
 ## Example 03
 
