@@ -48,7 +48,19 @@ And finally opening localhost:3000 in browser to view rocketchat:
 
 ## Example 03
 
-(insert steps, observations, etc.)
+First I created a Dockerfile for this example, seen [here](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-09/Dockerfile),
+
+then I ran the command `docker build -t helloworld .` (the output of which was *A LOT* so I'm not including a screenshot)
+
+and finally I ran the command `docker run -p 5000:5000 helloworld` 
+
+![image](https://user-images.githubusercontent.com/25308429/160162222-81650834-0271-4f34-a621-011c13d751b7.png)
+
+![image](https://user-images.githubusercontent.com/25308429/160162306-ee27a73e-865e-4c1b-8312-17467bd1c9bc.png)
+
+and went to localhost:5000
+
+![image](https://user-images.githubusercontent.com/25308429/160162099-6d3b7cd4-eab6-4202-824a-010ab084db60.png)
 
 ## Example 04
 
