@@ -30,7 +30,19 @@ Finally I installed `cowsay` and followed the instructions on how to successfull
 
 ## Example 02
 
-(insert steps, observations, etc.)
+Running the command `docker run --name db -d mongo:3.2 mongod --smallfiles`:
+
+![image](https://user-images.githubusercontent.com/25308429/160150323-c9279840-e892-4dfe-a135-794d49ee9bad.png)
+
+![image](https://user-images.githubusercontent.com/25308429/160150516-14a4b5c4-ccd7-4665-9246-9c0f4c6d6465.png)
+
+Followed by running the command `docker run --name rocketchat -p 3000:3000 --env ROOT_URL=http://localhost --link db:db -d rocket.chat:0.62`:
+
+![image](https://user-images.githubusercontent.com/25308429/160150944-260b0000-b5c3-4326-8763-7d19c257a637.png)
+
+![image](https://user-images.githubusercontent.com/25308429/160150992-d39f18eb-b6a6-4ee7-9a1d-c48004a0764b.png)
+
+And finally opening localhost:3000 in browser to view rocketchat:
 
 ## Example 03
 
