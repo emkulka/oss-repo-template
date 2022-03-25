@@ -68,3 +68,18 @@ First I created a Dockerfile for this example, seen [here](https://github.com/em
 
 then I ran the command `docker build -t message-app .`
 
+![image](https://user-images.githubusercontent.com/25308429/160172635-a1f09acb-5655-47d7-b9ad-c059077b2abb.png)
+
+afterwards I ran the command `docker images` to view all available images (the message app has the red star next to it)
+
+![image](https://user-images.githubusercontent.com/25308429/160173030-b2816a2b-94d8-4607-848e-826efc9563d0.png)
+
+Since the message app was not linked to a batabase, it could not run. So the next step was to create the `docker-compose.yml` file, found [here](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-09/docker-compose.yml), so that both services could be launched at the same time.
+
+Then I ran the commands `docker-compose build` to build 
+
+![image](https://user-images.githubusercontent.com/25308429/160174540-faea20dc-6c84-4d5c-b040-d95b84e02066.png)
+
+and `docker-compose up`
+
+
