@@ -48,7 +48,7 @@ And finally opening localhost:3000 in browser to view rocketchat:
 
 ## Example 03
 
-First I created a Dockerfile for this example, seen [here](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-09/Dockerfile),
+First I created a Dockerfile for this example, seen [here](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-09/DockerfileEX03),
 
 then I ran the command `docker build -t helloworld .` (the output of which was *A LOT* so I'm not including a screenshot)
 
@@ -64,5 +64,7 @@ and went to localhost:5000
 
 ## Example 04
 
-(insert steps, observations, etc.)
+First I created a Dockerfile for this example, seen [here](https://github.com/emkulka/oss-repo-template/blob/master/labs/lab-09/DockerfileEX04),
+
+then I ran the command `docker build -t message-app .`
 
