@@ -65,5 +65,41 @@ Tutorial steps
 
 
 ## Checkpoint 3
+API Tutorial steps
+
+<details>
+  <summary>1.7.1</summary>
+  
+  hi
+  
+</details>
+
+<details>
+  <summary>1.7.2</summary>
+  
+  hi
+
+</details>
+
+<details>
+  <summary>1.7.3</summary>
+
+  hi
+
+</details>
+
+<details>
+  <summary>1.7.4</summary>
+
+  hi
+
+</details>
+
+<details>
+  <summary>1.7.5</summary>
+  
+  no documentation to show.
+  
+</details>
 
 ## Checkpoint 4
