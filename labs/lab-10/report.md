@@ -103,7 +103,7 @@ API Tutorial steps
 
   ![image](https://user-images.githubusercontent.com/25308429/161311999-4841f00f-afb6-4b6c-9bae-7b6aba71c3f8.png)
 
-  *Note* I was told to ^C on this process...the replicated database has the same number of documents with the same content, but is smaller in size.
+  *Note:* I was told to ctrl-C on this process...the replicated database has the same number of documents with the same content, but is smaller in size.
   
   ![image](https://user-images.githubusercontent.com/25308429/161312263-14925033-522e-4488-a6c1-cbe68c5e0dac.png)
 
@@ -117,3 +117,10 @@ API Tutorial steps
 </details>
 
 ## Checkpoint 4
+
+First curl command
+![image](https://user-images.githubusercontent.com/25308429/161312744-8ed1ec28-9a8e-4abd-8b6a-90b2c6203fb8.png)
+
+Modifying command to find titles that come after L
+![image](https://user-images.githubusercontent.com/25308429/161316185-9465d307-5639-4721-b728-eefce6f11b4f.png)
+
