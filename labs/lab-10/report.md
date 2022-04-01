@@ -2,7 +2,7 @@
 
 ## Checkpoint 0
 
-(insert linkto blog post)
+Please see the blog post for the week of 04/04/2022, found [here](https://github.com/emkulka/oss-repo-template/wiki/Weekly-Blog)
 
 ## Checkpoint 1
 
