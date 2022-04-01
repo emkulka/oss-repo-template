@@ -88,7 +88,13 @@ API Tutorial steps
 <details>
   <summary>1.7.3</summary>
 
-  hi
+  ![image](https://user-images.githubusercontent.com/25308429/161305647-3e6ac822-0cb6-4e2d-b8e9-fe5af9d54b8c.png)
+
+  ![image](https://user-images.githubusercontent.com/25308429/161306180-bb24e299-28d0-43f2-bb68-baa822f620e2.png)
+
+  ![image](https://user-images.githubusercontent.com/25308429/161307267-beb645f6-2979-46c9-97c7-73bd0afa10a5.png)
+
+  ![image](https://user-images.githubusercontent.com/25308429/161308075-80728830-c912-4568-90c3-a2a565967e6f.png)
 
 </details>
 
