@@ -124,3 +124,9 @@ First curl command
 Modifying command to find titles that come after L
 ![image](https://user-images.githubusercontent.com/25308429/161316185-9465d307-5639-4721-b728-eefce6f11b4f.png)
 
+Adding index for title
+![image](https://user-images.githubusercontent.com/25308429/161316900-d1146a52-c0fe-46f3-9645-caeb71728613.png)
+
+
+And re-running query now that title index is created
+![image](https://user-images.githubusercontent.com/25308429/161316973-577d67fa-3220-4e9b-9f8d-b47d4b792eb0.png)
