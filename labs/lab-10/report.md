@@ -59,7 +59,7 @@ Tutorial steps
 <details>
   <summary>1.6.6</summary>
   
-  hi
+  no documentation to show.
   
  </details>
 
