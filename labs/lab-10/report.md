@@ -70,14 +70,18 @@ API Tutorial steps
 <details>
   <summary>1.7.1</summary>
   
-  hi
+  ![image](https://user-images.githubusercontent.com/25308429/161295651-a5ff967e-610a-49c5-aebe-1fb64fe12b42.png)
   
 </details>
 
 <details>
   <summary>1.7.2</summary>
   
-  hi
+  ![image](https://user-images.githubusercontent.com/25308429/161296409-5512d028-908c-4463-a257-4cce91ad9ed9.png)
+  
+  ![image](https://user-images.githubusercontent.com/25308429/161296470-0443a218-c4c1-4ce1-961d-5eec56d78ee6.png)
+  
+  ![image](https://user-images.githubusercontent.com/25308429/161296535-86903654-524f-4330-bc30-c858ba17a92e.png)
 
 </details>
 
