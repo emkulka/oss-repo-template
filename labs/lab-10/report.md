@@ -101,7 +101,11 @@ API Tutorial steps
 <details>
   <summary>1.7.4</summary>
 
-  hi
+  ![image](https://user-images.githubusercontent.com/25308429/161311999-4841f00f-afb6-4b6c-9bae-7b6aba71c3f8.png)
+
+  *Note* I was told to ^C on this process...the replicated database has the same number of documents with the same content, but is smaller in size.
+  
+  ![image](https://user-images.githubusercontent.com/25308429/161312263-14925033-522e-4488-a6c1-cbe68c5e0dac.png)
 
 </details>
 
