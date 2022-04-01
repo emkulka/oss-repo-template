@@ -39,18 +39,20 @@ Tutorial steps
 <details>
   <summary>1.6.4</summary>
 
-  ![image](https://user-images.githubusercontent.com/25308429/161290987-32066765-9ea0-4127-be77-474710ba79ad.png)
-
-  ![image](https://user-images.githubusercontent.com/25308429/161291079-4c6d1917-3981-4f99-b01f-4f9a296c0805.png)
-
-  ![image](https://user-images.githubusercontent.com/25308429/161291196-1231f911-4256-4f82-97c0-9598dfb01a39.png)
+  ![image](https://user-images.githubusercontent.com/25308429/161293033-804bf605-7b4d-4c00-8154-b9553940a796.png)
+  
+  ![image](https://user-images.githubusercontent.com/25308429/161293277-6df54965-5274-4a85-90ab-65063ddfbda1.png)
 
 </details>
 
 <details>
   <summary>1.6.5</summary>
   
-  hi
+  ![image](https://user-images.githubusercontent.com/25308429/161294127-dbe3e59a-eccd-41bc-b2d6-6fdcfcd3c916.png)
+
+  ![image](https://user-images.githubusercontent.com/25308429/161294218-aa0a54a2-c041-43cf-a2a7-e2761e5bb1f3.png)
+
+  ![image](https://user-images.githubusercontent.com/25308429/161294412-4fb0c9a6-4cf7-4aa7-b30f-ca34a626d6df.png)
   
 </details>
 
