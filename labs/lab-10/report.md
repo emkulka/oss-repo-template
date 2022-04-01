@@ -24,6 +24,11 @@ This is a screenshot of the message found at http://localhost:5984
 ![image](https://user-images.githubusercontent.com/25308429/161289689-f9037a8b-ef7d-4190-873f-3f18583746e5.png)
 
 ### Tutorial 1.6.4
+![image](https://user-images.githubusercontent.com/25308429/161290987-32066765-9ea0-4127-be77-474710ba79ad.png)
+
+![image](https://user-images.githubusercontent.com/25308429/161291079-4c6d1917-3981-4f99-b01f-4f9a296c0805.png)
+
+![image](https://user-images.githubusercontent.com/25308429/161291196-1231f911-4256-4f82-97c0-9598dfb01a39.png)
 
 ### Tutorial 1.6.5
 
