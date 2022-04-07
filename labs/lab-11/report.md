@@ -8,7 +8,9 @@ After running the given code segment, this was the pop-up window I received.
 
 ## Checkpoint 2: Run a TensorFlow classification
 
-(insert screenshot)
+After completing the fashion classification example, I then modified the specified block of code to produce information for images 9000-9014 rather than images 0-14. Here is the screenshot of that plot
+
+<img src="https://user-images.githubusercontent.com/25308429/162256097-5ae4a943-773f-4823-a1c4-b6d4493147f9.png" width="450" height="300" />
 
 ## Checkpoint 3: Curate some data
 
