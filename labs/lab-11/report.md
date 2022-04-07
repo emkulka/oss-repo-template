@@ -14,13 +14,19 @@ After completing the fashion classification example, I then modified the specifi
 
 ## Checkpoint 3: Curate some data
 
-### Image 1
+### Image 1 - Pullover
 
-(insert original image)
+Original image:
 
-(insert greyscale 28x28 image)
+<img src="./images/pullover.JPG" width="200" height="150" />
 
-(insert results of classification)
+Greyscale, inverted, 28x28 image:
+
+<img src="./images/pullover_processed.png" />
+
+Classification results:
+
+(insert)
 
 ### Image 2
 
