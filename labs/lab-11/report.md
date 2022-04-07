@@ -14,9 +14,26 @@ After completing the fashion classification example, I then modified the specifi
 
 ## Checkpoint 3: Curate some data
 
+### Image 1
+
 (insert original image)
 
 (insert greyscale 28x28 image)
 
 (insert results of classification)
 
+### Image 2
+
+(insert original image)
+
+(insert greyscale 28x28 image)
+
+(insert results of classification)
+
+### Image 3
+
+(insert original image)
+
+(insert greyscale 28x28 image)
+
+(insert results of classification)
