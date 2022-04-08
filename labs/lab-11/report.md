@@ -47,12 +47,11 @@ Greyscale, inverted, 28x28 image:
 
 Classification results:
 
-<img src="https://user-images.githubusercontent.com/25308429/162356737-0b04bfbe-de09-4f43-9ed7-31130514a3b8.png" width="350" height="300" />
+<img src="https://user-images.githubusercontent.com/25308429/162358098-90fe6c30-3220-4761-9ee2-6984a73898e2.png" width="350" height="300" />
 
 ```
-[[7.47589618e-02 5.97069389e-04 3.68908769e-03 8.13899875e-01
-  3.31244461e-04 2.24307631e-04 1.05990596e-01 3.41750965e-05
-  2.26665099e-04 2.48004770e-04]]
+[[1.0356742e-01 5.5765599e-04 5.8868062e-03 6.6605061e-01 2.3919216e-03
+  9.1357681e-05 2.1970439e-01 4.6146313e-05 1.6802151e-03 2.3418530e-05]]
 3
 Dress
 ```
@@ -69,11 +68,26 @@ Greyscale, inverted, 28x28 image:
 
 Classification results:
 
-<img src="https://user-images.githubusercontent.com/25308429/162356843-141fcbe6-bf39-44ae-b4c7-ec8a02cd239b.png" width="350" height="300" />
+<img src="https://user-images.githubusercontent.com/25308429/162358269-45d7766e-ba0c-4737-b128-1ec820a64858.png" width="350" height="300" />
 
 ```
-[[2.3864158e-03 2.1092386e-03 3.1962243e-03 5.1720999e-04 1.1321499e-03
-  3.3819322e-08 1.1932800e-01 1.9585585e-07 8.7132651e-01 4.0202899e-06]]
-8
-Bag
+[[8.1032736e-04 8.4845806e-06 2.7008257e-03 1.1380437e-04 4.4843042e-03
+  2.2340153e-10 8.4797156e-01 5.8386194e-09 1.4391072e-01 1.3334572e-10]]
+6
+Shirt
+```
+
+It really bothered me that the model couldn't identify this ankle boot, so just for fun I flipped the image and tested it.
+
+<img src="./images/ankleboot_flipped_processed.png" />
+
+These were the classification results:
+
+<img src="https://user-images.githubusercontent.com/25308429/162358970-b21d5db4-7299-4170-88b4-bfc45ebc903c.png" width="350" height="300" />
+
+```
+[[1.6898569e-11 9.8822198e-13 2.8880859e-14 3.1399057e-11 7.9767981e-15
+  2.3984883e-04 1.3607881e-12 3.5611136e-04 1.7198776e-10 9.9940407e-01]]
+9
+Ankle boot
 ```
