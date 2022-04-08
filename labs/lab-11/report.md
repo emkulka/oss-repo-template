@@ -91,3 +91,5 @@ These were the classification results:
 9
 Ankle boot
 ```
+
+So it looks like the data is only trained on shoes/boots with the toe facing left!
