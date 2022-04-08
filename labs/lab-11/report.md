@@ -30,16 +30,28 @@ Classification results:
 
 ### Image 2
 
-(insert original image)
+Original image:
 
-(insert greyscale 28x28 image)
+<img src="./images/dress.JPG" width="175" height="150" />
 
-(insert results of classification)
+Greyscale, inverted, 28x28 image:
+
+<img src="./images/dress_processed.png" />
+
+Classification results:
+
+(insert)
 
 ### Image 3
 
-(insert original image)
+Original image:
 
-(insert greyscale 28x28 image)
+<img src="./images/ankleboot.JPG" width="150" height="150" />
 
-(insert results of classification)
+Greyscale, inverted, 28x28 image:
+
+<img src="./images/ankleboot_processed.png" />
+
+Classification results:
+
+(insert)
